@@ -34,8 +34,8 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-           -name:Java version
-            run:Java --version
+         
+      
            -name:Docker version
             run:Docker --version
            -name:Terraform version
