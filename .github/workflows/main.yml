@@ -38,6 +38,10 @@ jobs:
         run: java --version
       - name: docker version
         run: docker --version
+      - name: python version
+        run: python --version
+      - name: terraform version
+        run: terraform --version
          
            
            
